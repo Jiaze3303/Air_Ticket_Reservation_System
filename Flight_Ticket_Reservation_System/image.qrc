@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/book.png</file>
+        <file>image/book_hover.png</file>
+        <file>image/eraser.png</file>
+        <file>image/print.png</file>
+        <file>image/tickets.png</file>
+        <file>image/logo.png</file>
+        <file>image/find.png</file>
+        <file>image/add.png</file>
+        <file>image/refresh.png</file>
+        <file>image/save.png</file>
+    </qresource>
+</RCC>
