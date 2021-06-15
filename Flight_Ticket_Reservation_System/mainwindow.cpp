@@ -14,6 +14,7 @@ MainWindow::MainWindow(QWidget *parent) :
     Button_style();
 }
 
+
 MainWindow::~MainWindow()
 {
     delete ui;
@@ -85,7 +86,6 @@ void MainWindow::on_pushButton_clicked()
 {
     ui->pushButton_2->setChecked(false);
     ui->pushButton_3->setChecked(false);
-    ui->pushButton_4->setChecked(false);
     ui->stackedWidget->setCurrentIndex(0);
 }
 
@@ -93,7 +93,6 @@ void MainWindow::on_pushButton_2_clicked()
 {
     ui->pushButton->setChecked(false);
     ui->pushButton_3->setChecked(false);
-    ui->pushButton_4->setChecked(false);
     ui->stackedWidget->setCurrentIndex(1);
 }
 
@@ -101,7 +100,6 @@ void MainWindow::on_pushButton_3_clicked()
 {
     ui->pushButton->setChecked(false);
     ui->pushButton_2->setChecked(false);
-    ui->pushButton_4->setChecked(false);
     ui->stackedWidget->setCurrentIndex(2);
 }
 

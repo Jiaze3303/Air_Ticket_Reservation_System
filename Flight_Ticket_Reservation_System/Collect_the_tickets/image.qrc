@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/map.png</file>
+        <file>image/tickets.png</file>
+        <file>image/find.png</file>
+        <file>image/330683-1P102103I575.jpg</file>
+    </qresource>
+</RCC>

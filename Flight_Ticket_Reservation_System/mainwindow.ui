@@ -135,35 +135,6 @@
        <bool>true</bool>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton_4">
-      <property name="geometry">
-       <rect>
-        <x>0</x>
-        <y>240</y>
-        <width>231</width>
-        <height>81</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>取票</string>
-      </property>
-      <property name="icon">
-       <iconset resource="image.qrc">
-        <normaloff>:/image/image/tickets.png</normaloff>:/image/image/tickets.png</iconset>
-      </property>
-      <property name="iconSize">
-       <size>
-        <width>24</width>
-        <height>24</height>
-       </size>
-      </property>
-      <property name="checkable">
-       <bool>true</bool>
-      </property>
-      <property name="default">
-       <bool>false</bool>
-      </property>
-     </widget>
      <widget class="QLabel" name="label_5">
       <property name="geometry">
        <rect>
@@ -272,7 +243,7 @@ background:rgb(129, 196, 255)}</string>
 }</string>
      </property>
      <property name="currentIndex">
-      <number>0</number>
+      <number>3</number>
      </property>
      <widget class="QWidget" name="page">
       <widget class="QTableView" name="tableView">
